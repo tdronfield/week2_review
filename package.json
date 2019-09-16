@@ -1,0 +1,28 @@
+{
+  "name": "week2_review",
+  "version": "1.0.0",
+  "description": "learning npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdronfield/week2_review.git"
+  },
+  "keywords": [
+    "npm",
+    "gulp",
+    "taskrunner",
+    "js",
+    "is",
+    "awesome"
+  ],
+  "author": "taylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdronfield/week2_review/issues"
+  },
+  "homepage": "https://github.com/tdronfield/week2_review#readme",
+  "devDependencies": {}
+}
